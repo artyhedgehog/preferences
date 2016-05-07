@@ -1,4 +1,3 @@
-p,
 /* 5digits.org */ .main-content > .content,
 /* habrahabr.ru */ .comment_body, .content.html_format,
 /* wikipedia.org */ #mw-content-text,
@@ -65,8 +64,9 @@ p,
 /* class.coursera.org */ #course-page-content,
 /* docs.oracle.com */ #TutBody, #PageContent,
 /* megamozg.ru */ div.content.html_format,
-/* lingvolive.ru/posts */ .post-content .section-text, .comment-message-text,
-.ucoz-forum-post { 
+/* lingvolive.ru/posts */ .post-content .section-text, .comment-message-text,		
+.ucoz-forum-post,
+p { 
     font-family: serif;
 }
 
