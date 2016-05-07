@@ -1,0 +1,55 @@
+div.tabs.im_tabs.t_bar, #im_tabs, #im_bar, #im_peer_controls, #im_texts {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#im_resizer_wrap {
+    visibility: hidden;
+    display: none;
+}
+
+#im_send_wrap {
+ 	max-height: 20px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+div#im_send_wrap * {
+    max-height: 20px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.im_status_holder {
+    float: right;
+}
+
+.im_photo_holder {
+    float: left;
+}
+
+div#im_nav_wrap * {
+    margin: 0 !important;
+    padding-top: 0 !important;
+  	padding-bottom: 0 !important;
+  	font-size: 10px !important;
+}
+
+div#page_header, div#page_header * {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin: 0 !important;
+    max-height: 30px !important;
+}
+
+div#side_bar {
+ 	top: 30px !important; 
+}
+
+#head_play_btn {
+  	top: -5px !important;
+}
+
+div#im_nav_wrap {
+ 	top: 30px !important; 	
+}
