@@ -66,6 +66,7 @@
 /* megamozg.ru */ div.content.html_format,
 /* lingvolive.ru/posts */ .post-content .section-text, .comment-message-text,		
 .ucoz-forum-post,
+/* forums.drom.ru */ .content,
 p { 
     font-family: serif;
 }
