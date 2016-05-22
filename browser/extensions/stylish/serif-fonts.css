@@ -67,6 +67,7 @@
 /* lingvolive.ru/posts */ .post-content .section-text, .comment-message-text,		
 .ucoz-forum-post,
 /* forums.drom.ru */ .content,
+/* bash.im */ div.quote div.text,
 p { 
     font-family: serif;
 }
