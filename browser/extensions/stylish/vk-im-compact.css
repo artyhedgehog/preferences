@@ -3,7 +3,7 @@ div.tabs.im_tabs.t_bar, #im_tabs, #im_bar, #im_peer_controls, #im_texts {
     padding-bottom: 0;
 }
 
-#im_resizer_wrap {
+#im_send_wrap, #im_resizer_wrap {
     visibility: hidden;
     display: none;
 }
