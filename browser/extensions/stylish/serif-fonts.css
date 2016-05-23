@@ -1,5 +1,5 @@
 /* 5digits.org */ .main-content > .content,
-/* habrahabr.ru */ .comment_body, .content.html_format,
+/* habrahabr.ru */ .comment_body, .content.html_format, .post > .content, .post > .content.html_format, .comment_body,
 /* wikipedia.org */ #mw-content-text,
 /* crazycode.net */ .article_text,
 /* developer.android.com */ #jd-content,
@@ -68,6 +68,13 @@
 .ucoz-forum-post,
 /* forums.drom.ru */ .content,
 /* bash.im */ div.quote div.text,
+/* docs.oracle.com */ #PageContent,
+/* keepassx.org/forum */ .postbody .content,
+/* php.net */ .para,
+/* blog.branch.io */ .section.post-body p,
+/* erlang.se/doc */ p,
+/* slack.com */ .message_body,
+.main-content,
 p { 
     font-family: serif;
 }
