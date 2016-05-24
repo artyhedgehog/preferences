@@ -74,6 +74,7 @@
 /* blog.branch.io */ .section.post-body p,
 /* erlang.se/doc */ p,
 /* slack.com */ .message_body,
+/* rocket.timeweb.ru */ div.body,
 .main-content,
 p { 
     font-family: serif;
