@@ -75,6 +75,7 @@
 /* erlang.se/doc */ p,
 /* slack.com */ .message_body,
 /* rocket.timeweb.ru */ div.body,
+/* mobile-review.com */ #mainblock p,
 .main-content,
 p { 
     font-family: serif;
