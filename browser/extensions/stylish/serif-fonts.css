@@ -82,6 +82,7 @@ p {
     font-family: serif;
 }
 
+/* extjs-tutorial.com */ .container-fluid p,
 /* habrahabr.ru */ .comment_body > .message {
     font-family: serif !important;
 }
