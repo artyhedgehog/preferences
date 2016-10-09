@@ -79,6 +79,7 @@
 /* mobile-review.com */ #mainblock p,
 /* vk.com */ .wall_post_text,
 .main-content,
+/* forums.virtualbox.org */ .content,
 p { 
     font-family: serif;
 }
