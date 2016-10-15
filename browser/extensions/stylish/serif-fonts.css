@@ -80,6 +80,7 @@
 /* vk.com */ .wall_post_text,
 .main-content,
 /* forums.virtualbox.org */ .content,
+/* redux.js.org/docs */ .book p,
 p { 
     font-family: serif;
 }
