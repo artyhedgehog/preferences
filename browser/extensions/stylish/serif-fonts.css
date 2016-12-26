@@ -82,6 +82,7 @@
 /* forums.virtualbox.org */ .content,
 /* redux.js.org/docs */ .book p,
 /* rutracker.org */ .post_body,
+/* docs.angularjs.org */ .main-body,
 p { 
     font-family: serif;
 }
