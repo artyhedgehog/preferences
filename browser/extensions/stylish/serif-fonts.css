@@ -83,6 +83,7 @@
 /* redux.js.org/docs */ .book p,
 /* rutracker.org */ .post_body,
 /* docs.angularjs.org */ .main-body,
+/* kommersant.ru */ .b-article .b-article__text,
 p { 
     font-family: serif;
 }
