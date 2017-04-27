@@ -1,3 +1,3 @@
 .content.html_format {
-    font-size: large;
+    font-size: medium;
 }
