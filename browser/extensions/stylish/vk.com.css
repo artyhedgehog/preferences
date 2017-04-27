@@ -1,5 +1,5 @@
 /* https://vk.com/feed */ .post_content, 
 /* https://vk.com/im */ .im_msg_text, .im-mess--text,
 .wall_post_text {
-    font-size: large !important;
+    font-size: larger !important;
 }
