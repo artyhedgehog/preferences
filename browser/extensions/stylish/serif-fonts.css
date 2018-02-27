@@ -89,7 +89,8 @@ p {
 }
 
 /* extjs-tutorial.com */ .container-fluid p,
-/* habrahabr.ru */ .comment_body > .message {
+/* habrahabr.ru */ .comment_body > .message,
+/* econet.ru */ .article_content * {
     font-family: serif !important;
 }
 
