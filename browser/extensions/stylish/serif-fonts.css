@@ -84,7 +84,7 @@
 /* rutracker.org */ .post_body,
 /* docs.angularjs.org */ .main-body,
 /* kommersant.ru */ .b-article .b-article__text,
-p { 
+p, li { 
     font-family: serif;
 }
 
