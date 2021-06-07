@@ -102,6 +102,7 @@ p, li {
     font-size: 18px;    
 }
 
+/* web.telegram.org */ .im_message_text,
 /* staff.timeweb.ru */ #history_main_talks td {
     font-family: serif !important;
     font-size: larger;
