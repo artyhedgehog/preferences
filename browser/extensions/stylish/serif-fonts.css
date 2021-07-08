@@ -104,6 +104,7 @@ p, li {
 
 /* web.telegram.org */ .im_message_text,
 /* app.nozbe.com */ .comment__body,
+/* pikabu.ru */ .story-block,
 /* staff.timeweb.ru */ #history_main_talks td {
     font-family: serif !important;
     font-size: larger;
