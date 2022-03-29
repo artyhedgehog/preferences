@@ -90,10 +90,11 @@ p, li {
 
 /* aws-amplify.github.io/docs */ .docs-container p,
 /* guides.gamepressure.com */ article.word-txt *,
-/* extjs-tutorial.com */ .container-fluid p,
+/* extjs-tutorial.com, MatterMost web app */ .container-fluid p, /**/
 /* habrahabr.ru */ .comment_body > .message,
 /* econet.ru */ .article_content * {
     font-family: serif !important;
+    /**/ font-size: larger; /**/
 }
 
 /* wrike.com/workspace */ div.ql-container div.ql-editor,
