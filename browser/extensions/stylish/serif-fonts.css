@@ -78,14 +78,19 @@
 /* rocket.timeweb.ru */ div.body,
 /* mobile-review.com */ #mainblock p,
 /* vk.com */ .wall_post_text,
-.main-content,
 /* forums.virtualbox.org */ .content,
 /* redux.js.org/docs */ .book p,
 /* rutracker.org */ .post_body,
 /* docs.angularjs.org */ .main-body,
 /* kommersant.ru */ .b-article .b-article__text,
-p, li { 
+.main-content { 
     font-family: serif;
+}
+
+/* notion.site */ .notion-page-content,
+p, li {
+    font-family: serif;
+    font-size: larger;    
 }
 
 /* aws-amplify.github.io/docs */ .docs-container p,
